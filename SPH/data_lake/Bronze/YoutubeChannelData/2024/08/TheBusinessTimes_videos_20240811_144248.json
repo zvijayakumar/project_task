@@ -1,0 +1,1260 @@
+[
+    {
+        "kind": "youtube#searchResult",
+        "etag": "5jEKHPK3FWUFopJ28ZhnUYF8Cpo",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "HH1lmpdt5sw"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-09T03:45:00Z",
+            "channelId": "UC0GP1HDhGZTLih7B89z_cTg",
+            "title": "Singapore’s Millennials set to be the wealthiest generation ever",
+            "description": "Singapore stands on the brink of a colossal socio-economic transformation driven by an unprecedented wealth transfer.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/HH1lmpdt5sw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/HH1lmpdt5sw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/HH1lmpdt5sw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Business Times",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-09T03:45:00Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "hYnFn9Bvkb5izShfZMyDhCHxtPY",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "d-LS14DQHyo"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-08T09:23:33Z",
+            "channelId": "UC0GP1HDhGZTLih7B89z_cTg",
+            "title": "Market Focus Daily: Thursday, August 8th, 2024 (Ep 119)",
+            "description": "Asian stocks turn lower again as nervous traders navigate volatility; JPMorgan says three quarters of global carry trades now ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/d-LS14DQHyo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/d-LS14DQHyo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/d-LS14DQHyo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Business Times",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-08T09:23:33Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "GjA5Le9nidQjUEYJ9j4Nc-qG34c",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "1e0VzhfrovE"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-08T08:45:00Z",
+            "channelId": "UC0GP1HDhGZTLih7B89z_cTg",
+            "title": "What was Piyush Gupta’s plan to hand over the reins at DBS?",
+            "description": "Will DBS thrive under new leadership? Current CEO Piyush Gupta will retire in 2025, after a transformative 15 years at the helm.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/1e0VzhfrovE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/1e0VzhfrovE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/1e0VzhfrovE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Business Times",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-08T08:45:00Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "dvHhgVcBiKJBPsRL9rZlJ_UO1uQ",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "A2gtNRq3oIM"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-08T08:45:00Z",
+            "channelId": "UC0GP1HDhGZTLih7B89z_cTg",
+            "title": "Can Tan Su Shan propel DBS to greater heights?",
+            "description": "Appointed as deputy CEO, Tan Su Shan will succeed Piyush Gupta in 2025, becoming DBS's first female and internally promoted ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/A2gtNRq3oIM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/A2gtNRq3oIM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/A2gtNRq3oIM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Business Times",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-08T08:45:00Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "oz7dwdMF1B5JZAnBiSIyvSYM4DU",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "fbrukqDJRMc"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-08T07:14:07Z",
+            "channelId": "UC0GP1HDhGZTLih7B89z_cTg",
+            "title": "BT Podcasts: Xero invests in your growth",
+            "description": "As SMEs face increasing operational and financial challenges, what can these cash-strapped companies do to survive and stay ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/fbrukqDJRMc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/fbrukqDJRMc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/fbrukqDJRMc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Business Times",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-08T07:14:07Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "2hsLX_PStxjJ-aiz9_xgwrSzF6w",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "ddR3HqUxOd4"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-08T06:00:14Z",
+            "channelId": "UC0GP1HDhGZTLih7B89z_cTg",
+            "title": "Who is Tan Su Shan, DBS’ incoming CEO",
+            "description": "Will Tan Su Shan propel DBS to new heights? Appointed as deputy CEO, she'll succeed Piyush Gupta in 2025, becoming DBS's ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ddR3HqUxOd4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ddR3HqUxOd4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ddR3HqUxOd4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Business Times",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-08T06:00:14Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "ZT_ftHhreLsqSRGXKyuzXMckl8E",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "oGp9ufXX72A"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-08T05:45:01Z",
+            "channelId": "UC0GP1HDhGZTLih7B89z_cTg",
+            "title": "BT Podcasts: Xero invests in your growth",
+            "description": "As SMEs face increasing operational and financial challenges, what can these cash-strapped companies do to survive and stay ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/oGp9ufXX72A/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/oGp9ufXX72A/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/oGp9ufXX72A/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Business Times",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-08T05:45:01Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "cnDnJ46Mn7P9wog7qGE5Vi4i_9U",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "HoRucVLhgDc"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-08T02:16:50Z",
+            "channelId": "UC0GP1HDhGZTLih7B89z_cTg",
+            "title": "Lens on Daily: Thursday, August 8, 2024 (Ep 84)",
+            "description": "Russia said yesterday it was fighting intense battles against Ukrainian forces that had penetrated its southern border; South Korea ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/HoRucVLhgDc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/HoRucVLhgDc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/HoRucVLhgDc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Business Times",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-08T02:16:50Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "Lv1qHel2rwUXAjI6JwBnSZBPApQ",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "T4xP3paSU6M"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-07T10:01:24Z",
+            "channelId": "UC0GP1HDhGZTLih7B89z_cTg",
+            "title": "Market Focus Daily: Wednesday, August 7, 2024 (Ep 118)",
+            "description": "Asian stocks rally, yen falls as Bank of Japan reassures investors; DBS Q2 profit rises 6% to S$2.79 billion; declares S$0.54 per ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/T4xP3paSU6M/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/T4xP3paSU6M/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/T4xP3paSU6M/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Business Times",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-07T10:01:24Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "Of4oQzUQTO41AyOOYfRgYJrtc6o",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "uT-tkx6G1Qw"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-07T09:35:00Z",
+            "channelId": "UC0GP1HDhGZTLih7B89z_cTg",
+            "title": "120 HDB resale units sold for more than S$1 million in July",
+            "description": "The number of HDB flats sold for at least S$1 million rose 25% in the month to 120 units in July, compared with 96 in June. Overall ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/uT-tkx6G1Qw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/uT-tkx6G1Qw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/uT-tkx6G1Qw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Business Times",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-07T09:35:00Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "PquUl2MAAT4WlQ17vaEWsZz-ZAg",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "4npOG1DTMzY"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-07T02:14:02Z",
+            "channelId": "UC0GP1HDhGZTLih7B89z_cTg",
+            "title": "Lens on Daily: Wednesday, August 7, 2024 (Ep 83)",
+            "description": "Democratic presidential nominee Kamala Harris and her newly selected vice presidential running mate, Minnesota Governor Tim ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/4npOG1DTMzY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/4npOG1DTMzY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/4npOG1DTMzY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Business Times",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-07T02:14:02Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "95VrwWhnvtjp5L3ktZSJISc3lHY",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "7PzqeMYfs7Y"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-06T09:53:15Z",
+            "channelId": "UC0GP1HDhGZTLih7B89z_cTg",
+            "title": "Market Focus Daily: Tuesday, August 6, 2024 (Ep 117)",
+            "description": "Asian stocks rebound but STI dragged down by local banks; US office S-Reits up on Fed rate-cut expectations, MAS proposal to ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/7PzqeMYfs7Y/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/7PzqeMYfs7Y/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/7PzqeMYfs7Y/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Business Times",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-06T09:53:15Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "iHB6LHu37nIIAPlOM5w-APDksjs",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "XWyfEALsFcg"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-06T09:30:11Z",
+            "channelId": "UC0GP1HDhGZTLih7B89z_cTg",
+            "title": "BT Money Hacks: Combatting costs in the world’s costliest city (Ep 178)",
+            "description": "How is everyone dealing with high costs in the costliest city in the world: Singapore? Howie Lim finds out. Listen on all your ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/XWyfEALsFcg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/XWyfEALsFcg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/XWyfEALsFcg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Business Times",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-06T09:30:11Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "RB9dbiNYnUITYPKDbLTYZ32ZH58",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "TJv57VpznQI"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-06T07:30:07Z",
+            "channelId": "UC0GP1HDhGZTLih7B89z_cTg",
+            "title": "Malaysian ringgit gains 3.7% against SGD, trades at 3.35",
+            "description": "The Malaysian ringgit, once the worst-performing Asian currency in 2023, is staging a remarkable comeback. It has erased its ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/TJv57VpznQI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/TJv57VpznQI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/TJv57VpznQI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Business Times",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-06T07:30:07Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "4VAk9raqKSSudO4NFEUJpSQlhEc",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "faDPcgDFIp0"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-06T06:30:15Z",
+            "channelId": "UC0GP1HDhGZTLih7B89z_cTg",
+            "title": "Global stock market meltdown, US$6.4 trillion wiped out",
+            "description": "How will Mon's (Aug 5) market crash impact global economies? Global markets plunged, erasing US$6.4 trillion of stocks.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/faDPcgDFIp0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/faDPcgDFIp0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/faDPcgDFIp0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Business Times",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-06T06:30:15Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "M8gua2wUgNgix300XJETqNEq8WM",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "9uoJlC0oOUY"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-06T06:00:03Z",
+            "channelId": "UC0GP1HDhGZTLih7B89z_cTg",
+            "title": "US$6.4 trillion wiped out in global stock market meltdown",
+            "description": "How will Mon's (Aug 5) market crash impact global economies? Global markets plunged, erasing US$6.4 trillion of stocks.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/9uoJlC0oOUY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/9uoJlC0oOUY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/9uoJlC0oOUY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Business Times",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-06T06:00:03Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "4DGl7Phf9_6XCIHRKJOP8WSFH9A",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "2Z3BUAqfNVY"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-06T02:09:22Z",
+            "channelId": "UC0GP1HDhGZTLih7B89z_cTg",
+            "title": "Lens on Daily: Tuesday, August 6, 2024 (Ep 82)",
+            "description": "British Prime Minister Keir Starmer said yesterday that a “standing army” of specialist police would be set up to deal with rioting; ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/2Z3BUAqfNVY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/2Z3BUAqfNVY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/2Z3BUAqfNVY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Business Times",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-06T02:09:22Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "M7CK5m9GVBJhh71YeRWeq9K-jl0",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "FMAu1pNP3r8"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-05T10:30:04Z",
+            "channelId": "UC0GP1HDhGZTLih7B89z_cTg",
+            "title": "Recession worries sends Asian stock indices plunging #shorts",
+            "description": "Asia-Pacific and European stocks hit the red after recession fears caused a meltdown in Wall Street on Fri (Aug 2). The Nikkei 225 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/FMAu1pNP3r8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/FMAu1pNP3r8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/FMAu1pNP3r8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Business Times",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-05T10:30:04Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "kFzsTQ_oe0MkH0N62dVcXuzesH8",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "5K_g06AZGNk"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-05T09:53:14Z",
+            "channelId": "UC0GP1HDhGZTLih7B89z_cTg",
+            "title": "Market Focus Daily: Monday, August 5th, 2024 (Ep 116)",
+            "description": "Tech-heavy Nasdaq in correction as equity sell-off deepens; Japan's Nikkei plummets 13% in biggest rout since 1987 Black ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/5K_g06AZGNk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/5K_g06AZGNk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/5K_g06AZGNk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Business Times",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-05T09:53:14Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "3rCh7ulpGos1AF95eyTQSqiM0Wc",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "pLWQEqVDXxE"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-05T09:30:15Z",
+            "channelId": "UC0GP1HDhGZTLih7B89z_cTg",
+            "title": "Global stock markets on edge as possible US recession looms",
+            "description": "Are US recession fears driving market turmoil? Asian indexes slump post-US unemployment data as the Nikkei 225 plummeted ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/pLWQEqVDXxE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/pLWQEqVDXxE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/pLWQEqVDXxE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Business Times",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-05T09:30:15Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "C3g1OSPfU4hJFiPe_MoPmfk4nB8",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "lMSythwwbXA"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-05T08:45:02Z",
+            "channelId": "UC0GP1HDhGZTLih7B89z_cTg",
+            "title": "Asian stocks tumble as US recession fears mount",
+            "description": "Are US recession fears driving market turmoil? Asian indexes slump post-US unemployment data as the Nikkei 225 plummeted ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/lMSythwwbXA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/lMSythwwbXA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/lMSythwwbXA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Business Times",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-05T08:45:02Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "K2EpHr-B9o6QBXExt5chWtNLa2I",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "hOajdI1OWn0"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-05T02:06:16Z",
+            "channelId": "UC0GP1HDhGZTLih7B89z_cTg",
+            "title": "Lens on Daily: Monday, August 5, 2024 (Ep 81)",
+            "description": "Vice President Kamala Harris interviews three top candidates ahead of her VP choice announcement expected as early as this ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/hOajdI1OWn0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/hOajdI1OWn0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/hOajdI1OWn0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Business Times",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-05T02:06:16Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "zv0-Q1sr6SLqVo4V0Z4eGfXrLfs",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "YQ9mulKT558"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-03T03:00:20Z",
+            "channelId": "UC0GP1HDhGZTLih7B89z_cTg",
+            "title": "Why is it so expensive to ride hail in Singapore?",
+            "description": "Singapore's ride-hailing market is the only market in South-east Asia to face a shortage in driver supply, leading to complaints of ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/YQ9mulKT558/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/YQ9mulKT558/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/YQ9mulKT558/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Business Times",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-03T03:00:20Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "rPFrFKjBJnnm9TTsOBa8Kq6pdSo",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "9SGIUs1Wsa8"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-03T03:00:05Z",
+            "channelId": "UC0GP1HDhGZTLih7B89z_cTg",
+            "title": "Singapore inks deal with US to tap on nuclear energy possibilities",
+            "description": "Is nuclear energy the future for Singapore? The city-state signs a 30-year 123 Agreement with the US to explore cutting-edge ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/9SGIUs1Wsa8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/9SGIUs1Wsa8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/9SGIUs1Wsa8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Business Times",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-03T03:00:05Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "PUiQjPWShie8fU3Q5vt34KYx3ds",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "orHBRv0ujDA"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-02T11:45:03Z",
+            "channelId": "UC0GP1HDhGZTLih7B89z_cTg",
+            "title": "Lens on Singapore: Gearing up for Disease X (Ep 11)",
+            "description": "If another pandemic strikes today, are we ready to take it on? Virus hunters globally tell us how they're preparing for the fight.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/orHBRv0ujDA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/orHBRv0ujDA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/orHBRv0ujDA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Business Times",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-02T11:45:03Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "FRut3jq0PRGaPauiqr_mCSQiwXs",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "TvBvzimTOGI"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-02T09:51:53Z",
+            "channelId": "UC0GP1HDhGZTLih7B89z_cTg",
+            "title": "Market Focus Daily: Friday, August 2, 2024 (Ep 115)",
+            "description": "Asia tanks as markets track Wall Street down on recession fears; Japan's Nikkei sinks nearly 6% on US slowdown fears; OCBC ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/TvBvzimTOGI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/TvBvzimTOGI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/TvBvzimTOGI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Business Times",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-02T09:51:53Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "I8HVfGz5Qm8my5jZxLnlHt7rpsE",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "FNhjNfS2zYQ"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-02T09:15:00Z",
+            "channelId": "UC0GP1HDhGZTLih7B89z_cTg",
+            "title": "Seatrium rebounds to profitability with S$36m H1 net profit",
+            "description": "Offshore and marine specialist Seatrium reversed its fortunes with a net profit of S$36 million for H1 FY2024, from a net loss of ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/FNhjNfS2zYQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/FNhjNfS2zYQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/FNhjNfS2zYQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Business Times",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-02T09:15:00Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "rt65DgxPyRa4IY1lnWlLT69j-uo",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "U-mP452m3Ns"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-02T08:30:15Z",
+            "channelId": "UC0GP1HDhGZTLih7B89z_cTg",
+            "title": "Is Allianz’s offer for Income the right move to grow the local insurer?",
+            "description": "Can Income Insurance maintain strong capital resilience in a competitive market? Amid public concerns over Allianz's offer for ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/U-mP452m3Ns/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/U-mP452m3Ns/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/U-mP452m3Ns/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Business Times",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-02T08:30:15Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "PZtTT3jp80S32jzajhqupOSchmE",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "fmNMsocnKWc"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-02T08:00:24Z",
+            "channelId": "UC0GP1HDhGZTLih7B89z_cTg",
+            "title": "Can strata malls in Singapore survive?",
+            "description": "Strata malls such as People's Park Complex have over 40 years left on their leases, but the clock is ticking for others like ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/fmNMsocnKWc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/fmNMsocnKWc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/fmNMsocnKWc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Business Times",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-02T08:00:24Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "ncOX5QXM-lAyhlaUrz9BR_rlgy4",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "LRSASXre3O4"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-02T07:00:10Z",
+            "channelId": "UC0GP1HDhGZTLih7B89z_cTg",
+            "title": "Can strata malls like Sim Lim Square, People&#39;s Park Complex survive?",
+            "description": "Strata malls such as People's Park Complex have over 40 years left on their leases, but the clock is ticking for others like ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/LRSASXre3O4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/LRSASXre3O4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/LRSASXre3O4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Business Times",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-02T07:00:10Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "TLZ_sKQ3JWxW6KEOb1606GDhcLg",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "J_8dHNS5zCU"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-02T02:06:52Z",
+            "channelId": "UC0GP1HDhGZTLih7B89z_cTg",
+            "title": "Lens on Daily: Friday, August 2, 2024 (Ep 80)",
+            "description": "Intel said overnight that it would cut more than 15% of its workforce, some 17500 people, and suspend its dividend starting in the ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/J_8dHNS5zCU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/J_8dHNS5zCU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/J_8dHNS5zCU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Business Times",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-02T02:06:52Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "tuDXFw1ocZnW-QZDT-xCI97ADmI",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "NdOV39RcjbA"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-01T09:50:02Z",
+            "channelId": "UC0GP1HDhGZTLih7B89z_cTg",
+            "title": "Market Focus Daily: Thursday, August 1, 2024 (Ep 114)",
+            "description": "Japanese stocks fall most since 2020 as yen strengthens; UOB Q2 profit rises 1% to S$1.43b; to pay S$0.88 per share dividend ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/NdOV39RcjbA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/NdOV39RcjbA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/NdOV39RcjbA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Business Times",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-01T09:50:02Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "cDkRRG9mb5Dq7c4H-qP9EBrTzbk",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "rL6CpU6GPAg"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-01T09:15:05Z",
+            "channelId": "UC0GP1HDhGZTLih7B89z_cTg",
+            "title": "SIA’s Q1 net profit drops 38.5% despite revenue growth #shorts",
+            "description": "Singapore Airlines reported a significant drop in net profit to S$451.7 million for the first quarter, a 38.5% decline from the previous ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/rL6CpU6GPAg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/rL6CpU6GPAg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/rL6CpU6GPAg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Business Times",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-01T09:15:05Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "ORUWOniq4W7e66YMPxZETS7ks4s",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "wKcf2-5jb04"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-01T08:15:02Z",
+            "channelId": "UC0GP1HDhGZTLih7B89z_cTg",
+            "title": "Bank of Japan surprises markets with rate hike, Yen hits 4-month high",
+            "description": "The Yen hit a 4-month high as the Bank of Japan hinted at further tightening. The BOJ raised interest rates in a mostly unexpected ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/wKcf2-5jb04/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/wKcf2-5jb04/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/wKcf2-5jb04/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Business Times",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-01T08:15:02Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "Thg_Tt-GbnQpzXdgWoLrLIxMF3E",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "89YoUglhZRo"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-01T07:30:05Z",
+            "channelId": "UC0GP1HDhGZTLih7B89z_cTg",
+            "title": "Yen strengthens after Bank of Japan hikes rate",
+            "description": "The Yen hit a 4-month high as the Bank of Japan hinted at further tightening. The BOJ raised interest rates in a mostly unexpected ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/89YoUglhZRo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/89YoUglhZRo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/89YoUglhZRo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Business Times",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-01T07:30:05Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "ODZtaTAhLwmfzbbTRSUnQr-dN_0",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "POkVyODS7m4"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-01T02:15:01Z",
+            "channelId": "UC0GP1HDhGZTLih7B89z_cTg",
+            "title": "Surge in older HDB resale flat sales hit record high in H1 2024 #shorts",
+            "description": "In a record-setting first half of 2024, transactions for resale flats aged 40 years or more hit 3042, surpassing the previous record of ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/POkVyODS7m4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/POkVyODS7m4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/POkVyODS7m4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Business Times",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-01T02:15:01Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "k55GsKHcXvN0pgWCMSlnjc5RqkA",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "G1dOaxGSV3Y"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-01T02:11:36Z",
+            "channelId": "UC0GP1HDhGZTLih7B89z_cTg",
+            "title": "Lens on Daily: Thursday, Aug 1, 2024 (Ep 79)",
+            "description": "Hamas' top political leader was killed yesterday by an airstrike in the Iranian capital; the military regime that seized power in ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/G1dOaxGSV3Y/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/G1dOaxGSV3Y/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/G1dOaxGSV3Y/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Business Times",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-01T02:11:36Z"
+        }
+    }
+]

@@ -1,0 +1,274 @@
+[
+    {
+        "kind": "youtube#searchResult",
+        "etag": "DWb8vHLAMLTqYUm8HhrIWkG1Y28",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "rj3o09wJqjk"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-11T01:45:27Z",
+            "channelId": "UC_WgSFSkn7112rmJQcHSUIQ",
+            "title": "Laporan Khas Berita Harian Singapura: Bina asas masa depan",
+            "description": "Impiannya apabila mula bekerja di Singapura pada usia 23 tahun sama seperti para pembantu rumah lain, iaitu untuk mencari ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/rj3o09wJqjk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/rj3o09wJqjk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/rj3o09wJqjk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Berita Harian Singapura",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-11T01:45:27Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "wk0s2lnQ9p0vMOtxwGRdywaZpUg",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "9UIszk9xGS0"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-08T11:05:47Z",
+            "channelId": "UC_WgSFSkn7112rmJQcHSUIQ",
+            "title": "Menetapkan Laluan Bagi Era Baru Aktivisme dan Kesukarelawanan.",
+            "description": "Dalam siri kedua daripada siri tiga Dialog Masyarakat yang Berita Harian adakan, para peserta dan anggota panel ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/9UIszk9xGS0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/9UIszk9xGS0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/9UIszk9xGS0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Berita Harian Singapura",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-08T11:05:47Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "veKUXVYGXjQf_fRVL7Ex0pbmSh0",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "nznYWPNiEV8"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-07T11:59:05Z",
+            "channelId": "UC_WgSFSkn7112rmJQcHSUIQ",
+            "title": "Dialog Masyarakat BH #2: Belia &amp; Kesedaran Sivik",
+            "description": "Tingkat kesedaran belia tentang isu nasional dan isu masyarakat - bolehkah belia usaha sendiri tingkat kesedaran mereka atau ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/nznYWPNiEV8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/nznYWPNiEV8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/nznYWPNiEV8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Berita Harian Singapura",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-07T11:59:05Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "xx5y966k9mqoPQNN7dfPp9TdCyo",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "7-yuhy8edh0"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-07T11:43:32Z",
+            "channelId": "UC_WgSFSkn7112rmJQcHSUIQ",
+            "title": "Dialog Masyarakat BH #2: Belia &amp; Aktivisme",
+            "description": "Cukupkah peluang bagi belia meluahkan pandangan mereka dengan tujuan mencetus perubahan positif? Namun dalam ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/7-yuhy8edh0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/7-yuhy8edh0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/7-yuhy8edh0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Berita Harian Singapura",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-07T11:43:32Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "NpLim0gqGbpesDGUdixfQtmuENc",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "_k0kUs8S614"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-04T22:00:31Z",
+            "channelId": "UC_WgSFSkn7112rmJQcHSUIQ",
+            "title": "Gempa bumi Sabah 2015: Masjid Ba&#39;alwie urus jenazah dua mangsa korban",
+            "description": "Syed Ahmed Al-Attas masih sebak kenang detik Masjid Ba'alwie bantu uruskan jenazah dua mangsa korban gempa bumi ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/_k0kUs8S614/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/_k0kUs8S614/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/_k0kUs8S614/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Berita Harian Singapura",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-04T22:00:31Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "hmTxXdYX6N5Nlyd7Jf36RXSm7R8",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "SLXU71lpVIA"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-04T01:30:11Z",
+            "channelId": "UC_WgSFSkn7112rmJQcHSUIQ",
+            "title": "Gempa bumi Sabah 2015: 9 tahun kemudian...",
+            "description": "Sembilan tahun sudah berlalu, namun tragedi gempa bumi di Gunung Kinabalu, Sabah pada 2015 yang meragut nayawa 10 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/SLXU71lpVIA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/SLXU71lpVIA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/SLXU71lpVIA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Berita Harian Singapura",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-04T01:30:11Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "JLrJqEY7AiWZ2vNe8d6yy5Zoch0",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "fjjvIGqGXYw"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-03T21:30:06Z",
+            "channelId": "UC_WgSFSkn7112rmJQcHSUIQ",
+            "title": "Laporan Khas Berita Harian Singapura: Akan kukembali ke Kinabalu...",
+            "description": "9 tahun berlalu namun tragedi gempa masih segar di ingatan... Sembilan tahun lalu, rancangan Encik Emyr Uzayr Mohamed ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/fjjvIGqGXYw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/fjjvIGqGXYw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/fjjvIGqGXYw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Berita Harian Singapura",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-03T21:30:06Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "aQDt7QZ-yDsAHgGIPfJ7dy8MHV8",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "pzJRR3e-WvM"
+        },
+        "snippet": {
+            "publishedAt": "2024-08-02T11:21:42Z",
+            "channelId": "UC_WgSFSkn7112rmJQcHSUIQ",
+            "title": "Boleh ke kenal tanda penyalahgunaan dadah?",
+            "description": "Macam mana ibu bapa nak kenal pasti tanda anak-anak mereka sudah ketagih? Dalam episod NoTapis kali ini, pekerja sosial ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/pzJRR3e-WvM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/pzJRR3e-WvM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/pzJRR3e-WvM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Berita Harian Singapura",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-08-02T11:21:42Z"
+        }
+    }
+]
