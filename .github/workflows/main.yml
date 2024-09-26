@@ -1,0 +1,63 @@
+name: Rebase and Create PRs
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  rebase-and-pr:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Get current date
+        id: date
+        run: echo "date=$(date +'%Y%m%d')" >> $GITHUB_ENV
+
+      - name: Create and push rebase_uat branch
+        run: |
+          git checkout -b rebase_uat_${{ env.date }}
+          git push origin rebase_uat_${{ env.date }}
+
+      - name: Create and push rebase_dev branch
+        run: |
+          git checkout main
+          git pull origin main
+          git checkout -b rebase_dev_${{ env.date }}
+          git push origin rebase_dev_${{ env.date }}
+
+      - name: Create PR for UAT
+        uses: repo-sync/pull-request@v2
+        with:
+          destination_branch: uat
+          source_branch: rebase_uat_${{ env.date }}
+          pr_title: "Rebase UAT ${{ env.date }}"
+          pr_body: "Rebase UAT branch with changes from main on ${{ env.date }}"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create PR for Dev
+        uses: repo-sync/pull-request@v2
+        with:
+          destination_branch: dev
+          source_branch: rebase_dev_${{ env.date }}
+          pr_title: "Rebase Dev ${{ env.date }}"
+          pr_body: "Rebase Dev branch with changes from main on ${{ env.date }}"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Delete rebase_uat branch after merge
+        if: github.event.pull_request.merged == true
+        run: |
+          git push origin --delete rebase_uat_${{ env.date }}
+
+      - name: Delete rebase_dev branch after merge
+        if: github.event.pull_request.merged == true
+        run: |
+          git push origin --delete rebase_dev_${{ env.date }}
