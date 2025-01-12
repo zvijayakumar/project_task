@@ -1,0 +1,32 @@
+--1204. Last Person to Fit in the Bus
+
+
+CREATE TABLE IF NOT EXISTS Queue (
+    person_id INT, 
+    person_name VARCHAR(30), 
+    weight INT, 
+    turn INT
+);
+
+TRUNCATE TABLE Queue;
+
+INSERT INTO Queue (person_id, person_name, weight, turn) VALUES ('5', 'Alice', '250', '1');
+INSERT INTO Queue (person_id, person_name, weight, turn) VALUES ('4', 'Bob', '175', '5');
+INSERT INTO Queue (person_id, person_name, weight, turn) VALUES ('3', 'Alex', '350', '2');
+INSERT INTO Queue (person_id, person_name, weight, turn) VALUES ('6', 'John Cena', '400', '3');
+INSERT INTO Queue (person_id, person_name, weight, turn) VALUES ('1', 'Winston', '500', '6');
+INSERT INTO Queue (person_id, person_name, weight, turn) VALUES ('2', 'Marie', '200', '4');
+
+
+
+-- Using self join to arive at the sum of weight for each turn 
+select q1.turn , q2.turn ,q1.weight,q2.weight, sum(q2.weight) over(partition by q1.turn order by q1.turn )
+from queue q1 join queue q2 on q1.turn >= q2.turn
+
+--Solution 
+
+select person_name from (
+select turn, person_name, weight,case when 
+ sum(weight) over(order by turn) <= 1000 then 1 else 0 end as roll_sum
+from queue
+) a where a.roll_sum = 1 order by turn desc limit 1 
